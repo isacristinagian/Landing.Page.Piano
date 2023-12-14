@@ -44,7 +44,7 @@ header{
       
   
 nav{ 
-    background-image: url("/Imagens/piano2.jpg");
+    background-image: url("piano2.jpg");
     width: 85.5vw;
     height: 21vw;
     object-fit:cover;
