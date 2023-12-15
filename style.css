@@ -426,30 +426,30 @@ header h3{
     display: none;}
 
   body p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   } 
   
   body{
     margin-left: 1rem;
     margin-right: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
   body h2{
-    font-size: 2rem;
+    font-size: 1.3rem;
   }
   body h3{
-    font-size: 2rem;
+    font-size: 1.3rem;
   }
 
 header{
-  width: 80vw;    
-  font-size: 1.5rem;
+  width: 90vw;    
+  font-size: 1.3rem;
 
 }
 
 .img-piano{
-width: 35rem;
-height: 15rem;
+width: 25rem;
+height: 8rem;
 margin-bottom: 3rem;
 align-items:center;
 background-color:#fff; 
@@ -460,7 +460,7 @@ padding: .1rem;
 
 nav{
   width: 80vw;
-  height: 130vw;
+  height: 140vw;
 }
 .nav-link{
 font-size: 1.5rem;
@@ -498,6 +498,12 @@ margin: 0;
   margin-left: .5rem;
   margin-right: .5rem;
   align-items: center;   
+}
+  .form-contato{  
+padding: 2rem;
+width:14rem;
+height: 14rem;
+margin-right: 6rem;
 }
 
 .footer{
