@@ -426,11 +426,13 @@ header h3{
     display: none;}
 
   body p{
-    font-size: 2rem;
+    font-size: 1.5rem;
   } 
   
   body{
-    font-size: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
   }
   body h2{
     font-size: 2rem;
@@ -440,8 +442,8 @@ header h3{
   }
 
 header{
-  width: 100vw;    
-  font-size: 2rem;
+  width: 80vw;    
+  font-size: 1.5rem;
 
 }
 
@@ -457,7 +459,7 @@ padding: .1rem;
 }
 
 nav{
-  width: 100vw;
+  width: 80vw;
   height: 130vw;
 }
 .nav-link{
@@ -467,7 +469,7 @@ margin: 0;
 }
 
 .Container{
-  width: 100vw;
+  width: 80vw;
   margin-bottom: .3rem;
   font-size: 1.3rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -476,7 +478,7 @@ margin: 0;
 }
 
 .browser {
-  width: 100vw;
+  width: 80vw;
   gap: 1rem;
   margin-right: .3rem;
   margin-left: .3rem;
@@ -492,7 +494,7 @@ margin: 0;
   }
 
 .Contact{
-  width: 140vw;
+  width: 80vw;
   margin-left: .5rem;
   margin-right: .5rem;
   align-items: center;   
