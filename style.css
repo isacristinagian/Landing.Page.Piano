@@ -1,7 +1,7 @@
 body{
 background-color: rgb(209, 240, 233);    
-margin-left: 3rem;
-margin-right:6rem;
+margin-left: 2rem;
+margin-right:2rem;
 font-family:Verdana, Geneva, Tahoma, sans-serif 'Dancing Script', cursive; 
 
 }
@@ -16,7 +16,7 @@ section{
 header{ 
   top: 0;
   left: 0;
-  width: 90%;
+  width:70vw;
   background-color: hsl(43, 68%, 62%);
   padding: .5rem .5rem;
   text-align: center;
@@ -38,7 +38,7 @@ header{
   
 nav{ 
     background-image: url("piano2.jpg");
-    width: 85.5vw;
+    width:70.5vw;
     height: 21vw;
     object-fit:cover;
     background-position: right bottom, left top;    
