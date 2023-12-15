@@ -457,8 +457,8 @@ padding: .1rem;
 }
 
 nav{
-  width: 110vw;
-  height: 110vw;
+  width: 100vw;
+  height: 130vw;
 }
 .nav-link{
 font-size: 1.5rem;
