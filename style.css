@@ -412,9 +412,9 @@ header h3{
   }
   .Contact{
     width: 80vw;
-    font-size: 1.5rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
+    font-size: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
 
     
@@ -440,7 +440,7 @@ header h3{
   }
 
 header{
-  width: 140vw;    
+  width: 200vw;    
   font-size: 2rem;
 
 }
@@ -457,7 +457,7 @@ padding: .1rem;
 }
 
 nav{
-  width: 140vw;
+  width: 200vw;
   height: 110vw;
 }
 .nav-link{
@@ -476,7 +476,7 @@ margin: 0;
 }
 
 .browser {
-  width: 120vw;
+  width: 200vw;
   gap: 1rem;
   margin-right: 1rem;
   margin-left: 1rem;
@@ -492,7 +492,7 @@ margin: 0;
   }
 
 .Contact{
-  width: 120vw;
+  width: 200vw;
   margin-left: 2rem;
   margin-right: 2rem;
   align-items: center;   
