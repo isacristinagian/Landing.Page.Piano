@@ -370,8 +370,8 @@ header h3{
 
 
 .img-piano{
-  width: 65rem;
-  height: 25rem;
+  width: 45rem;
+  height: 15rem;
   margin-bottom: 3rem;
   align-items:center;
   background-color:#fff; 
@@ -440,14 +440,14 @@ header h3{
   }
 
 header{
-  width: 200vw;    
+  width: 100vw;    
   font-size: 2rem;
 
 }
 
 .img-piano{
-width: 65rem;
-height: 25rem;
+width: 45rem;
+height: 15rem;
 margin-bottom: 3rem;
 align-items:center;
 background-color:#fff; 
@@ -457,7 +457,7 @@ padding: .1rem;
 }
 
 nav{
-  width: 200vw;
+  width: 100vw;
   height: 110vw;
 }
 .nav-link{
@@ -476,7 +476,7 @@ margin: 0;
 }
 
 .browser {
-  width: 200vw;
+  width: 120vw;
   gap: 1rem;
   margin-right: 1rem;
   margin-left: 1rem;
@@ -492,7 +492,7 @@ margin: 0;
   }
 
 .Contact{
-  width: 200vw;
+  width: 100vw;
   margin-left: 2rem;
   margin-right: 2rem;
   align-items: center;   
