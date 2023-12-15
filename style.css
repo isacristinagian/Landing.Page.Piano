@@ -499,11 +499,12 @@ margin: 0;
   margin-right: .5rem;
   align-items: center;   
 }
-  .form-contato{  
-padding: 2rem;
-width:14rem;
-height: 14rem;
-margin-right: 6rem;
+  
+.form-contato{  
+padding: 1rem;
+width:7rem;
+height:7em;
+margin-right: 1rem;
 }
 
 .footer{
