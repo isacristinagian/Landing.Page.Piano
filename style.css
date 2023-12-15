@@ -448,7 +448,7 @@ header{
 }
 
 .img-piano{
-width: 20rem;
+width: 16rem;
 height: 8rem;
 margin-bottom: 3rem;
 align-items:center;
@@ -460,7 +460,7 @@ padding: .1rem;
 
 nav{
   width: 80vw;
-  height: 150vw;
+  height: 160vw;
 }
 .nav-link{
 font-size: 1.5rem;
@@ -503,8 +503,19 @@ margin: 0;
 .form-contato{  
 padding: 1rem;
 width:4rem;
-height:4em;
+height:4rem;
 margin-right: 1rem;
+}
+
+.form-contato textarea {
+height: 8rem;
+width: 8rem;
+}
+
+.form-contato input[type=submit] {
+margin-left: 2rem;
+font-size: 1.2rem;
+width: 8rem;
 }
 
 .footer{
