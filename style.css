@@ -16,7 +16,7 @@ section{
 header{ 
   top: 0;
   left: 0;
-  width:70vw;
+  width:80vw;
   background-color: hsl(43, 68%, 62%);
   padding: .5rem .5rem;
   text-align: center;
@@ -128,8 +128,8 @@ nav{
     transform: translateY(4px);}
 
   .img-piano{
-  width: 280px;
-  height: 200px;
+  width: 150px;
+  height: 130px;
   object-fit:cover;
   align-items: center;
   text-align: center;
